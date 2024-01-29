@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+#userForm{
+    max-width: 800px;
+    padding: 20px;
+    border: 2px solid burlywood;
+    margin: 40px auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+ 
+
+body {
+    margin: 30px;
+    text-align: center;
+    color:burlywood;
+    
+}
+
+    #userList {
+        max-width: 800px;
+        padding: 20px;
+        border: 2px solid burlywood; 
+        margin: 40px auto;
+        display: flex;
+        flex-direction: column;
+        gap:20px;
+    }
+    
+    .item{
+        border: 2px solid burlywood;
+        padding: 5px;
+        border-radius: 5px;
+    }
+    
+
+ 
